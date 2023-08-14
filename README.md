@@ -15,7 +15,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 https://ChitChat.herokuapp.com/
 
-![](https://github.com/Shubhamkz/ChitChap/blob/master/screenshots/group%20%2B%20notif.png)
+![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/group%20%2B%20notif.png)
 
 ## Run Locally
 
@@ -61,32 +61,32 @@ Start the Client
 ### Authenticaton
 
 ![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/login.png)
-![](https://github.com/Shubhamkz/ChitChap/blob/master/screenshots/signup.png)
+![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/signup.png)
 
 ### Real Time Chatting with Typing indicators
 
-![](https://github.com/Shubhamkz/ChitChap/blob/master/screenshots/real-time.png)
+![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/real-time.png)
 
 ### One to One chat
 
-![](https://github.com/Shubhamkz/ChitChap/blob/master/screenshots/mainscreen.png)
+![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/mainscreen.png)
 
 ### Search Users
 
-![](https://github.com/Shubhamkz/ChitChap/blob/master/screenshots/search.png)
+![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/search.png)
 
 ### Create Group Chats
 
-![](https://github.com/Shubhamkz/ChitChap/blob/master/screenshots/new%20grp.png)
+![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/new%20grp.png)
 
 ### Notifications
 
-![](https://github.com/Shubhamkz/ChitChap/blob/master/screenshots/group%20%2B%20notif.png)
+![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/group%20%2B%20notif.png)
 
 ### Add or Remove users from group
 
-![](https://github.com/Shubhamkz/ChitChap/blob/master/screenshots/add%20rem.png)
+![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/add%20rem.png)
 
 ### View Other user Profile
 
-![](https://github.com/Shubhamkz/ChitChap/blob/master/screenshots/profile.png)
+![](https://github.com/Shubhamkz/ChitChat/blob/master/screenshots/profile.png)
